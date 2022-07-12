@@ -1,5 +1,5 @@
-# 📎 꽃 보러 갈래?(팀명: MATCH&FIX)
-![그림1](https://user-images.githubusercontent.com/25995055/178395409-01bdd409-f216-4f8c-8ddf-2bea401bd828.png)
+# 📎 꽃 보러 갈래?(팀명: 아름답조)
+![image](https://user-images.githubusercontent.com/25995055/178401309-2a2ffc86-ef45-439b-bfd8-6978312100bc.png)
 
 
 ## 👀 서비스 소개
@@ -80,11 +80,11 @@
 <br>
 
 ## 📌 SW유스케이스
-![image](https://user-images.githubusercontent.com/99248886/166611717-6a761c62-393f-444b-9945-34d5533b50dc.png)
+![image](https://user-images.githubusercontent.com/25995055/178401023-9a015e66-aa6e-4d74-8564-9b1f9d306649.png)
 <br>
 
-## 📌 서비스 흐름도(웹 화면설계서)
-![image](https://user-images.githubusercontent.com/99248886/166611795-b01ddc4f-8236-4955-ae77-be4b576025d7.png)
+## 📌 서비스 흐름도
+![image](https://user-images.githubusercontent.com/25995055/178401048-d6484bda-a2d7-40e1-998b-2bd195cd9f89.png)
 <br>
 
 ## 📌 ER다이어그램
@@ -94,15 +94,15 @@
 ## 🖥 화면 구성
 
 ### 로그인/회원가입/회원괸리/회원수정/회원탈퇴
-![image](https://user-images.githubusercontent.com/99248886/166612486-a17733a6-a3bb-4fd5-873f-57020ab80a16.png)
+![image](https://user-images.githubusercontent.com/25995055/178401098-95f15a0e-a2de-415e-83d5-883bb4cb0656.png)
 <br>
 
 ### 옷 정보/코디 추천(날씨, 팁, 오늘의 코디, 참고할 수 있는 코디)
-![image](https://user-images.githubusercontent.com/99248886/166612875-aee9b25d-00ff-4c07-a21f-975ccd8e6a0f.png)
+![image](https://user-images.githubusercontent.com/25995055/178401127-287e6de2-4396-49fc-a107-59c4d5cd55c7.png)
 <br>
 
 ### 일정/고객센터
-![image](https://user-images.githubusercontent.com/99248886/166612374-a2f6d85b-501d-4a51-a0d1-8cde0c07ebf2.png)
+![image](https://user-images.githubusercontent.com/25995055/178401150-861f0e93-0f40-4fae-98c1-2099bf513c8d.png)
 <br>
 
 ## 👨‍👩‍👦‍👦 팀원 역할
